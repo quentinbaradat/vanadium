@@ -3,7 +3,7 @@
 A rewrite of SaVi written in rust to create, analyze and visualize satellite constellation in your Web Browser using Webassembly and CesiumJS.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/quentinbaradat/vanadium/master/resources/vanadium_logo_github.png" alt="Project logo">
+    <img src="https://raw.githubusercontent.com/quentinbaradat/vanadium/master/resources/logo.png" alt="Project logo">
 </p>
 
 ## Contribution
